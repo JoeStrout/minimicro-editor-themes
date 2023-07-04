@@ -7,6 +7,10 @@ This repo contains custom color themes for the [built-in code editor](https://mi
 
 These themes are free for anyone to use for any purpose.
 
+## Browsing
+
+Look in the `lib` folder in this repo.  Each theme has two files: a `.ms` file which is the MiniScript code for the theme, and a `.png` file which is a screen shot showing what it looks like when applied to the code editor.
+
 ## Installing
 
 1. Clone or download this repo to your local machine.
