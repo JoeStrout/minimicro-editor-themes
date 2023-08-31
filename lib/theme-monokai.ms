@@ -1,4 +1,6 @@
 // by @thacuber2a03, 30/08/2023
+// adapted from Lite XL's colors repository
+// https://github.com/lite-xl/lite-xl-colors
 
 m = {}
 m.name = "Monokai"

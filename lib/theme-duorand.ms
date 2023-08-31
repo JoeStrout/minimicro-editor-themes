@@ -1,7 +1,6 @@
 // by @thacuber2a03, 30/08/2023
-
-// as the name might suggest,
-// the accent color is randomly generated
+// adapted from Lite XL's colors repository
+// https://github.com/lite-xl/lite-xl-colors
 
 color = "#"
 hexDigits = "abcdef"
