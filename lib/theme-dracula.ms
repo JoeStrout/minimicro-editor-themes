@@ -1,5 +1,8 @@
-// by @thacuber2a03, 30/08/2023
-// a modified version of dracula, actually
+// an implementation of the Dracula color theme
+// ...well, a modified version of it that adds colors to nested parentheses
+// ...said colors are taken from simple-dark :sweatsmile:
+// by @thacuber2a03
+// last modified 08/30/2023
 
 m = {}
 m.name = "Dracula"
