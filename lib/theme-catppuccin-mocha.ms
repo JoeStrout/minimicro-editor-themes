@@ -1,3 +1,8 @@
+// Catppuccin Mocha
+// Author: David Avila
+//        aviladurandavid613@gmail.com
+// Last Update: 2025-06-12
+
 m = {}
 m.name = "Catppuccin Mocha"
 m.codeBackground = "#1e1e2e"
